@@ -1,6 +1,6 @@
 # DroidLicious
 
-DroidLicious , a solution for studying the behavior of Android apps and classifying them accordingly. DroidLicious leverages state-of-the-art static analysis techniques to examine the behavior of Android applications.  <br/>
+DroidLicious , a solution for studying the behavior of Android apps and classifying them accordingly. DroidLicious leverages state-of-the-art static analysis techniques to examine the behavior of Android applications.  DroidLicious also utilizes reliable machine learning methods to detect data-flow patterns in malware and compares them to the patterns of data-flows exist in benign apps.<br/>
 <br/>
 Please check out website: https://DroidLicious.cc/<br/>
 
